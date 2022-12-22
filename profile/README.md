@@ -3,7 +3,7 @@
 
 :zap: Built and open sourced by the Crosspay team 
 
-Pitch Deck - shorturl.at/kuWYZ
+Pitch Deck - https://shorturl.at/kuWYZ
 
 ### :computer: Social Media
 
