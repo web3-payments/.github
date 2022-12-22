@@ -3,6 +3,8 @@
 
 :zap: Built and open sourced by the Crosspay team 
 
+Pitch Deck - shorturl.at/kuWYZ
+
 ### :computer: Social Media
 
 Website - https://crosspaycrypto.webflow.io/
