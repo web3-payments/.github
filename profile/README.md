@@ -18,7 +18,7 @@ Current web3 payment solutions have a really poor UX, high fees or a complicated
 We aim to provide an end-to-end payments infrastructure meaning we fulfil the needs across the entire customer journey and provide a seamless experience to all stakeholders.
 We are interoperable by default meaning we are chain agnostic and allow merchants to choose the token of their choice to receive crypto in and customers to pay with the crypto currency the choose to. No complicated exchanges required by users.
 We charge one flat fee of 1% for all transactions made through Crosspay meaning we have no complicated pricing mechanisms.
-We are decentralized by default meaning all you need to do to access our tools is connect with your wallet.
+We are web3 native meaning all you need to do to access our tools is connect with your wallet.
 We provide a sleek UX and bulletproof audited contracts meaning your payments journey is stress free and comparative to leading web2 payment provider experience.
 
 Pitch Deck - https://shorturl.at/kuWYZ
