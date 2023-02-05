@@ -33,7 +33,7 @@ Roadmap - https://crosspay-crypto.gitbook.io/docs/useful-information/roadmap
 
 Website - https://crosspaycrypto.webflow.io/
 
-Platform - https://crosspaycrypto.xyz
+Platform - http://crosspaycrypto.xyz
 
 Twitter - https://twitter.com/CrosspayCrypto
 
