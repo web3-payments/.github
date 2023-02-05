@@ -31,12 +31,17 @@ Roadmap - https://crosspay-crypto.gitbook.io/docs/useful-information/roadmap
 
 Website - https://crosspaycrypto.webflow.io/
 
+Platform - https://crosspaycrypto.xyz
+
 Twitter - https://twitter.com/CrosspayCrypto
 
 ### :telephone_receiver: Contact
 
+General / Onboarding Queries
+hello@crosspaycrypto.xyz
+
 #### :construction: Engineering queries
-William Cisotto (Co-Founder / CTO) https://www.linkedin.com/in/william-galindo-cisotto/
+William Cisotto (Co-Founder / CTO) william.cisotto@crosspaycrypto.xyz
 #### :office: Business queries
-Rhen Quadros (Co-Founder / CEO) https://www.linkedin.com/in/rhenquadros/
+Rhen Quadros (Co-Founder / CEO) rhen@crosspaycrypto.xyz
 
