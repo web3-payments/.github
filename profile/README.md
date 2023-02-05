@@ -23,6 +23,8 @@ We provide a sleek UX and bulletproof audited contracts meaning your payments jo
 
 Pitch Deck - https://shorturl.at/kuWYZ
 
+Technical Paper - https://crosspay-crypto.gitbook.io/docs/introduction/technical-paper
+
 User Guide - https://crosspay-crypto.gitbook.io/docs/user-guide/crash-course
 
 Roadmap - https://crosspay-crypto.gitbook.io/docs/useful-information/roadmap
